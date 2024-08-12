@@ -1,5 +1,5 @@
 - ### Hi there,
-I'm Tejas Patil 👋, a  developer passionate about coding. I love working on exciting projects and learning new technologies.
+  I'm Tejas Patil 👋, a  developer passionate about coding. I love working on exciting projects and learning new technologies.
 - 👀 I’m interested in in web development, artificial intelligence, and open source projects.
 - 💞️ I’m looking to collaborate on projects that involve improving user experiences through technology.
   
